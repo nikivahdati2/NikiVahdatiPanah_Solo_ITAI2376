@@ -1,1 +1,9 @@
+Neural Network: A system inspired by the human brain that learns patterns from data.
 
+Machine Learning: A method where computers learn from data instead of being explicitly programmed.
+
+Deep Learning: A type of machine learning that uses neural networks with many layers.
+
+Transformer: A deep learning model used in NLP that understands relationships between words.
+
+Overfitting: When a model learns too much from training data and performs poorly on new data.
